@@ -2,7 +2,7 @@
 ## Excel Dashboard to analyze data of a hotel over the past three years.
 ### BY MOHAMED ALGHALY
 
-# Dashboards
+# Dashboards 
 ## Bookings Analysis
 ### Insights on reservations demand and key factors that impact the bookings.
 ![Bookings Analysis](https://github.com/al-ghaly/Hotel-Revenue-Excel-Analysis/assets/61648960/f41d45bb-dee3-4a5c-89b4-904bd013cb6d)
